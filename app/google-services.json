@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "132126792439",
+    "project_id": "etec-65724",
+    "storage_bucket": "etec-65724.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132126792439:android:3ffde22dff2a8bde3f91f2",
+        "android_client_info": {
+          "package_name": "com.example.camera_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132126792439-vrj9pl1fjkfiao124qf9hqng0b9d67hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtRUBoKh4sQk5cgIXwaUb92kTWaYbwaOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132126792439-vrj9pl1fjkfiao124qf9hqng0b9d67hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
